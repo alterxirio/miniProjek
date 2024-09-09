@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    overflow-x: hidden;
+}
+nav{
+    background-color: #84C69B;
+}
+
+.main img{
+    width: 100%;
+}
+.content{
+    margin: 0px 100px;
+    margin-top: 80px;
+}
+.introduction p{
+    font-size: 1.57rem;
+    margin-top: 40px;
+}
+.basic{
+    margin-top: 50px;
+}
+.link{
+    font-size: 1.3rem;
+    margin-top: 40px;
+    list-style: none;
+    width: 100%;
+}
+.basic p{
+    background-color: #eeeeee;
+    width: 100%;
+    margin: 15px 0px;
+    padding: 5px 0px 5px 30px;
+    border-radius:5px;
+}
+.basic a{
+    color: black;
+}
+section{
+    margin-top: 50px;
+    background-color: #eeeeee;
+    padding: 20px;
+    border-radius:5px;
+    font-size: 1.2rem;
+}
+section h3{
+    margin-bottom: 30px;
+}
